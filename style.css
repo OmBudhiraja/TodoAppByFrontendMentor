@@ -291,6 +291,9 @@ input[type="text"]:focus + .input-circle{
   .info .active{
       font-size: 1.2rem;
   }
+  .todo .cross{
+    transform: translateX(0px);
+}
  .foot{
    bottom: 5%;
  }
